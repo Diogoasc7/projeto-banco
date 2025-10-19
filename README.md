@@ -67,14 +67,14 @@ Se passar a moeda, o saldo total é convertido para a moeda solicitada usando a 
 
 
 ## Estrutura do projeto
-projeto-banco/
-public/         # Pasta pública para o servidor
-index.php       # Arquivo principal da API
-vendor/         # Dependências do Composer
-composer.json   # Dependências e autoload
-composer.lock   # Fixa as versões das dependências do projeto.
-conexao.php     # Configuração do banco de dados
-README.md       # Este arquivo
+projeto-banco/ -> 
+public/         # Pasta pública para o servidor ->
+index.php       # Arquivo principal da API ->
+vendor/         # Dependências do Composer ->
+composer.json   # Dependências e autoload ->
+composer.lock   # Fixa as versões das dependências do projeto. ->
+conexao.php     # Configuração do banco de dados ->
+README.md       # Este arquivo ->
 
 
 ## API PTAX
