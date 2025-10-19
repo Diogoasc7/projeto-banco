@@ -1,0 +1,6 @@
+/vendor/
+/config.php
+.env
+*.log
+*.sqlite
+.DS_Store

@@ -1,0 +1,19 @@
+{
+    "name": "diogo/desafio_api_banco",
+    "description": "Projeto de desafio PHP com API de banco",
+    "autoload": {
+        "psr-4": {
+            "Diogo\\DesafioApiBanco\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Diogoasc7",
+            "email": "diogodsc1456@gmail.com"
+        }
+    ],
+    "require": {
+        "slim/psr7": "^1.7",
+        "slim/slim": "4.12"
+    }
+}
