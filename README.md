@@ -22,7 +22,7 @@ Antes de executar a aplicação, certifique-se de ter instalado:
 
 ## Instalação
 1. **Clonar o repositório**
-git clone https://github.com/seuusuario/projeto-banco.git
+git clone https://github.com/Diogoasc7/projeto-banco/tree/master
 
 2. **Acessar a pasta do projeto**
 cd projeto-banco
@@ -84,5 +84,4 @@ https://olinda.bcb.gov.br/olinda/servico/PTAX/versao/v1/odata/
 
 
 ## Contato
-Desenvolvedor: Diogo Augusto Costa Soares -> 
-E-mail: diogodsc1456@gmail.com
+Desenvolvedor: Diogo Augusto Costa Soares -> E-mail: diogodsc1456@gmail.com
