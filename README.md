@@ -74,7 +74,7 @@ vendor/         # Dependências do Composer ->
 composer.json   # Dependências e autoload ->
 composer.lock   # Fixa as versões das dependências do projeto. ->
 conexao.php     # Configuração do banco de dados ->
-README.md       # Este arquivo ->
+README.md       # Este arquivo
 
 
 ## API PTAX
@@ -84,5 +84,5 @@ https://olinda.bcb.gov.br/olinda/servico/PTAX/versao/v1/odata/
 
 
 ## Contato
-Desenvolvedor: Diogo Augusto Costa Soares
+Desenvolvedor: Diogo Augusto Costa Soares -> 
 E-mail: diogodsc1456@gmail.com
